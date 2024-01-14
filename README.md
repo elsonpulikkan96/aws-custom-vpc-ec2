@@ -1,4 +1,4 @@
-DevOps_Prod Terraform Stack
+Terraform Stack: aws-custom-vpc-ec2
 
 This Terraform stack automates the provisioning of a Virtual Private Cloud (VPC) in AWS, including one public subnet and two private subnets. Launch ec2 instances and establish the foundational infrastructure for a typical production environment.
 
