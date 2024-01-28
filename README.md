@@ -11,7 +11,7 @@ IAM User: Create an IAM user with appropriate EC2 permissions and access tokens.
 
 Terraform Installation:
 ```sh
-wget https://releases.hashicorp.com/terraform/1.6.4/terraform_1.6.4_linux_amd64.zip
+wget https://releases.hashicorp.com/terraform/1.7.1/terraform_1.7.1_freebsd_amd64.zip
 ```
 
 ```sh
