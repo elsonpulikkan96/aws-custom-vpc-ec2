@@ -10,9 +10,10 @@ AWS Account: You need an active AWS account to deploy the infrastructure.
 IAM User: Create an IAM user with appropriate EC2 permissions and access tokens. Ensure that the user has the necessary permissions to create and manage resources.
 
 Terraform Installation:
+
 ```sh
-wget https://releases.hashicorp.com/terraform/1.7.1/terraform_1.7.1_linux_amd64.zip
-```
+https://releases.hashicorp.com/terraform/1.8.3/terraform_1.8.3_linux_amd64.zip
+```sh
 
 ```sh
 unzip terraform_1.7.1_linux_amd64.zip
